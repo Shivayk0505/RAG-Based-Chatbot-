@@ -13,4 +13,4 @@ TECHNOLOGIES USED
 - Python (Core language)
 -  HuggingFace Transformers (Summarization & LLMs)
 - SentenceTransformers (Embeddings)
-- - Mistral-7B-Instruct (LLM) 
+- Mistral-7B-Instruct (LLM) 
